@@ -1,0 +1,1 @@
+# minte-digital-menu-manager-frontend
